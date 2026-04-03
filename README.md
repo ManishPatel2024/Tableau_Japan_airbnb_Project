@@ -7,7 +7,7 @@ In anticipation for our upcoming trip to Japan in May 2026, I wanted to create a
 * **Kokubunji Shi** neighbourhood has the highest percentage of Airbnb availability (currently not booked) and Musashino Shi has the lowest percentage of avilability. This is across all room types.
 
 
-![SQL world life expectancy code screenshot](images/World_Life_Expectancy_SQL_Screenshot.png)
+![japan_airbnb_Tableau_project screenshot](images/japan_airbnb_Tableau_projectt.png)
 
 
 ### 📁 Dataset Overview
